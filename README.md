@@ -5,7 +5,7 @@
   <a target="_blank" href="https://mosako.ir/projects">
     <img src="https://img.shields.io/badge/view-MY%20Activities-orange?style=for-the-badge&logo=rss" />
   </a>
-  <a target="_blank" href="http://kooshkestani.github.io/cv/">
+  <a target="_blank" href="https://www.linkedin.com/in/mosako94/">
     <img src="https://img.shields.io/badge/see-my Resume-black?style=for-the-badge&logo=monogram" />
   </a>
   <a target="_blank" href="http://kooshkestani.github.io/notes/">
@@ -17,7 +17,7 @@
 ### Hi there 👋
 
 - 🅱 I’m currently busy with my internship.
-- 💚 Software Development
+- 💚 Software Development & PO
 - 📫 How to reach me: 
 - 🌱 I’m currently learning some data science stuff
 - 👯 I’m looking to collaborate on ...
